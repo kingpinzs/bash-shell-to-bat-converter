@@ -65,6 +65,8 @@ class ConvertBash {
                             } else {
                                 return `${command.name.text}${suffix}`;
                             }
+                        case '# ':
+                            return 'REM';
                         case 'rm':
                             return this.rmHandler.handle(command);
                         case 'cp':
