@@ -7,7 +7,7 @@ Converts bash scripts (`*.sh`) to windows batch files (`*.bat`).
 This is _not_ supposed to be a fully complete/correct tool, but rather a starting point when converting scripts. 
 For simple scripts this might create correct results.
 
-Try it online: https://daniel-sc.github.io/bash-shell-to-bat-converter/
+Try it online: https://kingpinzs.github.io/bash-shell-to-bat-converter/
 
 ## Usage
 
